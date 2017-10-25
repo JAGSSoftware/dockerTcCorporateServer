@@ -1,7 +1,6 @@
 FROM centos:7
 
 LABEL author="José Alberto García Sánchez"
-LABEL vendor="NTT Data Deutschland GmbH"
 LABEL version="1.0"
 LABEL description="Container with the installation of TC Corporate Server \
 using a database running un local"
